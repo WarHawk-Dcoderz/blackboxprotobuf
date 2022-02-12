@@ -9,7 +9,7 @@ req = [x.strip() for x in req if x.strip()]
 
 setuptools.setup(
     name="blackboxprotobuf",
-    version="1.0.1",
+    version="1.0.2",
     author="Yogesh Khatri",
     author_email="yogesh@swiftforensics.com",
     description="Library for reading protobuf buffers without .proto definitions",
